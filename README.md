@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BaiduPCS-Go 百度网盘客户端
 
 仿 Linux 文件处理命令的百度网盘命令行客户端.
@@ -527,3 +528,7 @@ console 模式下, 运行命令 `config set -max_parallel 250` 将下载最大�
 |支付宝|
 |:-----:|
 |![alipay](./assets/donate/alipay.jpg)|
+=======
+# BaiduGo
+modify 2018-04-13
+>>>>>>> origin/master
